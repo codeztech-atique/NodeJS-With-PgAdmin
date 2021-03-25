@@ -1,0 +1,14 @@
+{
+  "pg": {
+    "hostName":"postgres",
+    "url": "52.24.18.121",
+    "username":"ajay",
+    "password":"ajay@1234",
+    "port":"5432",
+    "databaseName":"geolocation",
+    "markersTable": "custom_markers"
+  },
+  "secret": "secret_key",
+  "tokenExpires": 2000,
+  "port": 4000
+}
